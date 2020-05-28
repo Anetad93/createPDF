@@ -1,0 +1,10 @@
+# Project exclude paths
+/node_modules/
+/.idea/
+/config.js
+/*_tutorial.js
+*.docx
+*.xlsx
+*.pdf
+test*.js
+
