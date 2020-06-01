@@ -5,6 +5,7 @@ let excelCreat = require('excel4node');
 const Excel = require('exceljs');
 const mails = require('./getEmail')
 const config = require('./config')
+const nodemailer = require('nodemailer');
 
 const resp = fetch("https://r.unibase.pl/53", {
     "credentials": "include",
